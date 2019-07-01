@@ -1,0 +1,67 @@
+{
+    "title": "hello, i am sara",
+    "subtitle": "Full Stack Dev",
+    "links": {
+        "github": "https://github.com/",
+        "stackoverflow": "https://stackoverflow.com/questions/419163/what-does-if-name-main-do",
+        "linkedin": "https://www.linkedin.com/"
+    },
+    "sections": [
+        {
+            "title": "About us",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "testtesttesttesttesttesttesttesttesttest"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "react"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/js.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/csharp.png",
+                        "title": "C#"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "JSON"
+                    }
+                }
+            ]
+        }
+    ]
+}
