@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myrepository/static/css/main.f07fc0dc.chunk.css",
+    "main.js": "/myrepository/static/js/main.31b60761.chunk.js",
+    "main.js.map": "/myrepository/static/js/main.31b60761.chunk.js.map",
+    "runtime~main.js": "/myrepository/static/js/runtime~main.8e5c26c6.js",
+    "runtime~main.js.map": "/myrepository/static/js/runtime~main.8e5c26c6.js.map",
+    "static/js/2.64f36e7b.chunk.js": "/myrepository/static/js/2.64f36e7b.chunk.js",
+    "static/js/2.64f36e7b.chunk.js.map": "/myrepository/static/js/2.64f36e7b.chunk.js.map",
+    "index.html": "/myrepository/index.html",
+    "precache-manifest.968938b2faf96cd060995bcd8697e545.js": "/myrepository/precache-manifest.968938b2faf96cd060995bcd8697e545.js",
+    "service-worker.js": "/myrepository/service-worker.js",
+    "static/css/main.f07fc0dc.chunk.css.map": "/myrepository/static/css/main.f07fc0dc.chunk.css.map",
+    "static/media/logo.svg": "/myrepository/static/media/logo.5d5d9eef.svg"
+  }
+}
